@@ -1,7 +1,7 @@
 ## Success
 The implemented code successfully executed transactions from the account and sent them to the specified recipient addresses. 
 ![Accounts](images/account.jpg)
-![Transactios](images/transaction.jpg)
+![Transactions](images/transaction.jpg)
 
 ## Unit 19 Homework: Cryptocurrency Wallet
 
